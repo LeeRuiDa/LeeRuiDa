@@ -13,13 +13,14 @@
   </a>
 </p>
 
-About Me
+## About Me
 
-I enjoy working with Python, machine learning, APIs, and data-focused applications.Lately, I have been exploring AI security, RAG systems, and backend development.
+I enjoy working with **Python, machine learning, APIs, and data-focused applications**.  
+Lately, I have been exploring **AI security, RAG systems, and backend development**.
 
 Based in Morocco.
 
-Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -32,9 +33,12 @@ Tech Stack
   <img src="https://img.shields.io/badge/Git-FF4500?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
-Education
+## Education
 
-Bachelor of Engineering in Software EngineeringSichuan University · 2022–2026
+**Bachelor of Engineering in Software Engineering**  
+Sichuan University · 2022–2026
+
+---
 
 <p align="center">
   Thanks for stopping by 🙂
