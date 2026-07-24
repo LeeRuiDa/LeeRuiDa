@@ -13,15 +13,16 @@
   </a>
 </p>
 
-About Me
+## About Me
 
-I enjoy working with Python, machine learning, APIs, and data-focused applications.Lately, I have been exploring AI security, RAG systems, and backend development.
+I enjoy working with **Python, machine learning, APIs, and data-focused applications**.  
+Lately, I have been exploring **AI security, RAG systems, and backend development**.
 
 Based in Morocco.
 
-Tech Stack
+## Tech Stack
 
-Programming & Data
+### Programming & Data
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -33,7 +34,7 @@ Programming & Data
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
 </p>
 
-AI & Machine Learning
+### AI & Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
@@ -42,7 +43,7 @@ AI & Machine Learning
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
 </p>
 
-Backend, RAG & Tools
+### Backend, RAG & Tools
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
@@ -55,9 +56,12 @@ Backend, RAG & Tools
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest">
 </p>
 
-Education
+## Education
 
-Bachelor of Engineering in Software EngineeringSichuan University · 2022–2026
+**Bachelor of Engineering in Software Engineering**  
+Sichuan University · 2022–2026
+
+---
 
 <p align="center">
   Thanks for stopping by 🙂
